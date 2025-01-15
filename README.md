@@ -1,4 +1,8 @@
-## Hi there 👋
+Youssef Ezzyat, PhD
+Assistant Professor of Psychology and Neuroscience
+Swarthmore College
+
+Director of the Swarthmore Computational Memory Lab
 
 <!--
 **yezzyat/yezzyat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
