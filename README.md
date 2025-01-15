@@ -1,5 +1,7 @@
 Youssef Ezzyat, PhD
+
 Assistant Professor of Psychology and Neuroscience
+
 Swarthmore College
 
 Director of the Swarthmore Computational Memory Lab
