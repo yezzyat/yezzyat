@@ -1,10 +1,9 @@
 Youssef Ezzyat, PhD
 
-Assistant Professor of Psychology and Neuroscience
-
+Assistant Professor of Psychology <br>
 Swarthmore College
 
-Director of the Swarthmore Computational Memory Lab
+**Interests:** Cognitive neuroscience; human memory and learning; electrophysiological basis of memory; machine learning and computational methods.
 
 <!--
 **yezzyat/yezzyat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
