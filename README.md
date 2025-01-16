@@ -3,7 +3,7 @@ Youssef Ezzyat, PhD
 Assistant Professor of Psychology <br>
 Swarthmore College
 
-**Interests:** Cognitive neuroscience; human memory and learning; electrophysiological basis of memory; machine learning and computational methods; running; cooking; 🇲🇦.
+**Interests:** Cognitive neuroscience; human memory and learning; electrophysiological basis of memory; machine learning and computational methods; running; cooking; 🇲🇦
 <!--
 **yezzyat/yezzyat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
